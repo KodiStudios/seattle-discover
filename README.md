@@ -1,1 +1,1 @@
-# seattle-metro
+# seattle-discover
