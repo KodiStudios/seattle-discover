@@ -19,6 +19,7 @@ const config: Config = {
   projectName: 'seattle-discover', // Usually your repo name.
 
   onBrokenLinks: 'throw',
+  
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
