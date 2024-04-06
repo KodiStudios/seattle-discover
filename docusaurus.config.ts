@@ -8,7 +8,7 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://seattle-discover.example.com',
+  url: 'https://KodiStudios.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/seattle-discover/',
@@ -19,7 +19,7 @@ const config: Config = {
   projectName: 'seattle-discover', // Usually your repo name.
 
   onBrokenLinks: 'throw',
-  
+
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
