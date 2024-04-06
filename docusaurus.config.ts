@@ -8,15 +8,15 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://KodiStudios.github.io',
+  url: 'https://seattlediscover.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/seattle-discover/',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'KodiStudios', // Usually your GitHub org/user name.
-  projectName: 'seattle-discover', // Usually your repo name.
+  //organizationName: 'KodiStudios', // Usually your GitHub org/user name.
+  //projectName: 'seattle-discover', // Usually your repo name.
 
   onBrokenLinks: 'throw',
 
