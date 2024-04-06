@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website_2=self.webpackChunkmy_website_2||[]).push([[2777],{1324:e=>{e.exports=JSON.parse('{"label":"hola","permalink":"/seattle-discover/blog/tags/hola","allTagsPath":"/seattle-discover/blog/tags","count":1,"unlisted":false}')}}]);

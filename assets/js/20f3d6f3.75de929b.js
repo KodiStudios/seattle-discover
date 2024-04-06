@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website_2=self.webpackChunkmy_website_2||[]).push([[2603],{8993:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/seattle-discover/blog/tags/docusaurus","allTagsPath":"/seattle-discover/blog/tags","count":4,"unlisted":false}')}}]);
