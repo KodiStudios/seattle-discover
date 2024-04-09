@@ -38,15 +38,13 @@ const config: Config = {
           sidebarPath: "./sidebars.ts",
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+          editUrl: "https://github.com/KodiStudios/seattle-discover/",
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+          editUrl: "https://github.com/KodiStudios/seattle-discover/",
         },
         theme: {
           customCss: "./src/css/custom.css",
@@ -61,7 +59,7 @@ const config: Config = {
     navbar: {
       title: "Seattle",
       logo: {
-        alt: "My Site Logo",
+        alt: "Seattle Discover Logo",
         src: "img/logo.svg",
       },
       items: [
@@ -113,7 +111,7 @@ const config: Config = {
             },
             {
               label: "GitHub",
-              href: "https://github.com/facebook/docusaurus",
+              href: "https://github.com/KodiStudios/seattle-discover",
             },
           ],
         },
