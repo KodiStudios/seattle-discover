@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website_2=self.webpackChunkmy_website_2||[]).push([[947],{6600:i=>{i.exports=JSON.parse('{"authors":[{"name":"Nikolai Aristov","title":"Creator of Kodi Studios","url":"https://github.com/NikoAri","imageURL":"https://github.com/NikoAri.png","key":"NikoAri","page":null,"count":2}]}')}}]);
