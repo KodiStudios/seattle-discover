@@ -34,18 +34,22 @@ const config: Config = {
     [
       "classic",
       {
+        // Wiki
         docs: {
           sidebarPath: "./sidebars.ts",
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/KodiStudios/seattle-discover/",
+
+          // Adds "Edit This Page" links
+          editUrl: "https://github.com/KodiStudios/seattle-discover/tree/main",
         },
+
+        // Blog
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/KodiStudios/seattle-discover/",
+
+          // Adds "Edit This Page" links
+          editUrl: "https://github.com/KodiStudios/seattle-discover/tree/main",
         },
+
         theme: {
           customCss: "./src/css/custom.css",
         },
